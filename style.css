@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+}
+
+body{
+    background: linear-gradient(45deg, brown, yellow);
+    font-size: Helvetica;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    padding: 9px;
+    
+}
+
+h1{
+    font-size: 39px;
+    text-align: left;
+}
+
+h2{
+    font-size: 36;
+}
+
+
+
+    
+img{
+    display: center;
+    border-radius: 30px;
+    max-width: 200px;
+    max-width: 250px;
+    border: solid rgba(165, 79, 42, 0.58);
+    box-shadow: 0 0 48px 1px orangered ;
+    cursor: pointer;
+    overflow: hidden;
+    margin: 19px;
+   
+}
+
+
